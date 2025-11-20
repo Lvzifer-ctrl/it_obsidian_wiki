@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "c74c37f5187e005e",
+    "type": "split",
+    "children": [
+      {
+        "id": "310134d979f5ec5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eb9c378a13bc129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UX - UI Wiki/Begriffserklärungen.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Begriffserklärungen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90966e2bc5c67bb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "79a9ab99901da84e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "285a64ac8cb3cf41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b598f1b698e6fcd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "nicht",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "410beee732910cf6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.00260543823242
+  },
+  "right": {
+    "id": "003e6e8d7b90dd2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8729835848b4b692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0537d637f68e4a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setup Todo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Setup Todo"
+            }
+          },
+          {
+            "id": "76368e7e45c98596",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Setup Todo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Setup Todo"
+            }
+          },
+          {
+            "id": "14c46fb504c0b458",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "491d7ed12e7957b1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cadb042615c33f33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setup Todo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Setup Todo"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0eb9c378a13bc129",
+  "lastOpenFiles": [
+    "UX - UI Wiki/Architektur Makroebene.md",
+    "UX - UI Wiki/Anforderungen.md",
+    "Setup Todo.md",
+    "UX - UI Wiki/Nutzererlebnis UX.md",
+    "UX - UI Wiki/UI vs UX.md",
+    "UX - UI Wiki/Qt und C++.md",
+    "UX - UI Wiki/Designrichtlinien.md",
+    "UX - UI Wiki/Ereignisgesteuerte Programmierung.md",
+    "UX - UI Wiki/Benutzerhandbuch.md",
+    "UX - UI Wiki/GUI-Framework Auswahl.md",
+    "UX - UI Wiki/Begriffserklärungen.md",
+    "UX - UI Wiki/MVC Mikroebene.md",
+    "UX - UI Wiki/Arten der UI.md",
+    "UX - UI Wiki/Benutzerschnittstelle UI.md",
+    "Designrichtlinien.md",
+    "Welcome.md",
+    "Benutzerhandbuch.md",
+    "Makro- vs Mikroebene.md",
+    "UI - UX.md",
+    "Command-Line-Interface.md",
+    "Untitled.md",
+    "UX - UI Wiki"
+  ]
+}
