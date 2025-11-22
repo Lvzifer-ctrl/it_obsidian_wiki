@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX - UI Wiki/Begriffserklärungen.md",
-                "mode": "preview",
+                "file": "Wiso/Existenzgründung - Übersicht.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Begriffserklärungen"
+              "title": "Existenzgründung - Übersicht"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nicht",
+                "query": "ADD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,27 +186,33 @@
   },
   "active": "0eb9c378a13bc129",
   "lastOpenFiles": [
+    "Wiso/Rechtsformen - Überblick.md",
+    "Wiso/Standortwahl.md",
+    "Wiso/Pitch - Unternehmensvorstellung.md",
+    "Wiso/SWOT-Analyse.md",
+    "Wiso/Businessplan.md",
+    "Wiso/Anmelde- und Genehmigungsverfahren.md",
+    "Wiso/Gründungsschritte.md",
+    "Wiso/Existenzgründung - Übersicht.md",
+    "Wiso/Risiken und Chancen der Existenzgründung.md",
+    "UX - UI/Begriffserklärungen.md",
+    "Wiso",
     "Setup Todo.md",
-    "UX - UI Wiki/Begriffserklärungen.md",
-    "UX - UI Wiki/Architektur Makroebene.md",
-    "UX - UI Wiki/Anforderungen.md",
-    "UX - UI Wiki/Nutzererlebnis UX.md",
-    "UX - UI Wiki/UI vs UX.md",
-    "UX - UI Wiki/Qt und C++.md",
-    "UX - UI Wiki/Designrichtlinien.md",
-    "UX - UI Wiki/Ereignisgesteuerte Programmierung.md",
-    "UX - UI Wiki/Benutzerhandbuch.md",
-    "UX - UI Wiki/GUI-Framework Auswahl.md",
-    "UX - UI Wiki/MVC Mikroebene.md",
-    "UX - UI Wiki/Arten der UI.md",
-    "UX - UI Wiki/Benutzerschnittstelle UI.md",
+    "UX - UI/Architektur Makroebene.md",
+    "UX - UI/Anforderungen.md",
+    "UX - UI/Nutzererlebnis UX.md",
+    "UX - UI/UI vs UX.md",
+    "UX - UI/Qt und C++.md",
+    "UX - UI/Designrichtlinien.md",
+    "UX - UI/Ereignisgesteuerte Programmierung.md",
+    "UX - UI/Benutzerhandbuch.md",
+    "UX - UI/GUI-Framework Auswahl.md",
+    "UX - UI/MVC Mikroebene.md",
+    "UX - UI/Arten der UI.md",
+    "UX - UI/Benutzerschnittstelle UI.md",
     "Designrichtlinien.md",
     "Welcome.md",
     "Benutzerhandbuch.md",
-    "Makro- vs Mikroebene.md",
-    "UI - UX.md",
-    "Command-Line-Interface.md",
-    "Untitled.md",
-    "UX - UI Wiki"
+    "UX - UI"
   ]
 }
