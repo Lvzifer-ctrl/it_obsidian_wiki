@@ -1,23 +1,25 @@
-*Existenzgründung bietet große wirtschaftliche Chancen, ist aber auch mit finanziellen und organisatorischen Risiken verbunden.*
+*Existenzgründung bietet große wirtschaftliche Chancen, ist aber auch immer mit wirtschaftlichen und organisatorischen Risiken verbunden.*
 
 #wiso #risiko #chancen
 ***
 ### Typische Risiken
-- finanzieller Verlust
-- unzureichende Finanzierung
-- bürokratische Fehler
-- Fehleinschätzung des Marktes
-- schwierige Markteinführung
+- finanzieller finanzielles Risiko
+- Fehlkalkulationen bei Markt oder Kosten
+- Liquiditätsprobleme
+- hohe bürokratische Anforderungen
+- Konkurrenzdruck
+- [[Standortfaktoren|Standortnachteile]]
 ***
-### Chancen (inbesondere im IT-/Homeoffice-Bereich)
-- steigende Nachfrage nach Homeoffice-Produkten
-- Innovationspotenzial
-- Image-Rebranding für Unternehmen
-- Nischenmärkte mit wenig Konkurrenz
-- Skalierbare, digitale Geschäftsmodelle
+### Typische Chancen
+- eigene Ideen verwirklichen
+- Marktpotenzial nutzen
+- Nischenmärkte erobern
+- starkes Wachstumspotenzial
+- Unabhängigkeit und Selbstbestimmung
 ***
-### Wie man Risiken reduziert
-- gründliche Marktanalyse
-- angemessene Finanzierung
-- professionelle Planung
-- klare Aufgabenverteilung
+### Strategien zur Risikominimierung
+- fundierte Planung
+- Finanzpuffer
+- Markt- und Standortanalysen
+- klare Positionierung
+- professionelle Buchführung

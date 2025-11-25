@@ -1,6 +1,6 @@
-*Bevor ein Unternehmen starten darf, müssen rechtliche Anmeldungen und teilweise Genehmigungen erfüllt sein.*
+*Damit ein Unternehmen rechtsgültig existiert müssen bestimmte Anmeldungen und Genehmigungen erledigt werden.*
 
-#wiso #recht 
+#wiso #recht #existenzgründung
 *** 
 ### Wichtige Schritte
 - Gewerbeanmeldung

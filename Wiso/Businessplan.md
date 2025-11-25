@@ -1,14 +1,13 @@
-*Der Businessplan ist ein schriftliches Dokument, das das gesamte Unternehmenskonzept beschreibt und Investoren überzeugt.*
+*Der Businessplan beschreibt das gesamte Unternehmenskonzept und dient als Entscheidungsgrundlage für Banken und Investoren.*
 
-#wiso #management 
+#wiso #management #existenzgründung
 ***
 ### Bestandteile
 - Geschäftsidee
 - Produkt / Dienstleistung
 - Marktanalyse
 - Zielgruppe
-- Rechtsform
-- Finanzierung
+- [[Rechtsformen - Überblick|Rechtsform]]
+- [[Finanzierung]]
 - Marketingstrategie
-- Risikoanalyse
-***
+- Risiko- / SWOT-Analyse

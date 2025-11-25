@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "310134d979f5ec5e",
+        "id": "df21691cd443fccc",
         "type": "tabs",
         "children": [
           {
-            "id": "0eb9c378a13bc129",
+            "id": "c788a156ca28a2fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiso/Existenzgründung - Übersicht.md",
+                "file": "UX - UI/Anforderungen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Existenzgründung - Übersicht"
+              "title": "Anforderungen"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "79a9ab99901da84e",
         "type": "tabs",
+        "dimension": 73.79576107899807,
         "children": [
           {
             "id": "285a64ac8cb3cf41",
@@ -75,6 +76,28 @@
             }
           }
         ]
+      },
+      {
+        "id": "621418d28a6067fb",
+        "type": "tabs",
+        "dimension": 26.204238921001927,
+        "children": [
+          {
+            "id": "cadb042615c33f33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UX - UI/Anforderungen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Anforderungen"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,88 +108,47 @@
     "type": "split",
     "children": [
       {
-        "id": "8729835848b4b692",
+        "id": "43531e86e65b3163",
         "type": "tabs",
         "children": [
           {
-            "id": "e0537d637f68e4a8",
+            "id": "9d09a4f17137367d",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "localgraph",
               "state": {
-                "file": "Setup Todo.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "UX - UI/Anforderungen.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Setup Todo"
-            }
-          },
-          {
-            "id": "76368e7e45c98596",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Setup Todo.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Setup Todo"
-            }
-          },
-          {
-            "id": "14c46fb504c0b458",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "491d7ed12e7957b1",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "cadb042615c33f33",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Setup Todo.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Setup Todo"
+              "icon": "lucide-git-fork",
+              "title": "Graph of Anforderungen"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,38 +163,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0eb9c378a13bc129",
+  "active": "c788a156ca28a2fc",
   "lastOpenFiles": [
-    "Wiso/Rechtsformen - Überblick.md",
-    "Wiso/Standortwahl.md",
     "Wiso/Pitch - Unternehmensvorstellung.md",
-    "Wiso/SWOT-Analyse.md",
-    "Wiso/Businessplan.md",
-    "Wiso/Anmelde- und Genehmigungsverfahren.md",
-    "Wiso/Gründungsschritte.md",
-    "Wiso/Existenzgründung - Übersicht.md",
-    "Wiso/Risiken und Chancen der Existenzgründung.md",
-    "UX - UI/Begriffserklärungen.md",
-    "Wiso",
-    "Setup Todo.md",
-    "UX - UI/Architektur Makroebene.md",
-    "UX - UI/Anforderungen.md",
-    "UX - UI/Nutzererlebnis UX.md",
-    "UX - UI/UI vs UX.md",
-    "UX - UI/Qt und C++.md",
-    "UX - UI/Designrichtlinien.md",
-    "UX - UI/Ereignisgesteuerte Programmierung.md",
     "UX - UI/Benutzerhandbuch.md",
-    "UX - UI/GUI-Framework Auswahl.md",
-    "UX - UI/MVC Mikroebene.md",
-    "UX - UI/Arten der UI.md",
-    "UX - UI/Benutzerschnittstelle UI.md",
-    "Designrichtlinien.md",
-    "Welcome.md",
-    "Benutzerhandbuch.md",
+    "Wiso/IHK - Aufgaben.md",
+    "Wiso/Berufsausbildungsvertrag.md",
+    "Wiso/Lernorte der Berufsausbildung.md",
+    "Wiso/Rechtsquellen der Ausbildung.md",
+    "Wiso/Gesundheitsuntersuchungen (Ausbildung.md",
+    "UX - UI/Anforderungen.md",
+    "Wiso/Berufsschulzeiten Anrechnung.md",
+    "Wiso/Urlaub (Jugendliche).md",
+    "Wiso/Arbeitszeit (Jugendliche).md",
+    "Wiso/Jugendarbeitsschutzgesetz (JArbSchG).md",
+    "Wiso/Handlungskompetenz.md",
+    "Wiso/Probezeit (Ausbildung).md",
+    "Wiso/Ausbildungsvergütung.md",
+    "Wiso/AG.md",
+    "Wiso/Standortfaktoren.md",
+    "Wiso/Businessplan.md",
+    "Wiso/Preisvergleich von Standorten.md",
+    "Wiso/Duales Ausbildungssystem.md",
+    "Wiso/Einzelunternehmen.md",
+    "Wiso/Rechtsformen - Überblick.md",
+    "Wiso/UG (haftungsbeschränkt).md",
+    "Wiso/Kaufmannsarten.md",
+    "Wiso/Gründungsschritte.md",
+    "Wiso/Finanzierung.md",
+    "Wiso",
     "UX - UI"
   ]
 }

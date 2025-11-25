@@ -9,7 +9,7 @@ Dazu gehören Planung, Finanzierung, Rechtsformwahl, Standortsuche und Genehmigu
 ### Wichtige Bestandteile einer Existenzgründung
 - [[Gründungsschritte]]
 - [[Rechtsformen - Überblick]]
-- [[Finanzierungsarten]]
+- [[Finanzierung]]
 - [[Standortwahl - Überblick]]
 - [[Anmelde- und Genehmigungsverfahren]]
 - [[Businessplan]]

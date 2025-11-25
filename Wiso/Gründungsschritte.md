@@ -1,4 +1,4 @@
-*Gründungsschritte sind die logisch aufeinanderfolgenden Phasen beim Aufbau eines neuen Unternehmens.*
+*Gründungsschritte sind die logische Abfolge aller Tätigkeiten, die zu einer erfolgreichen Unternehmensgründung führen.
 
 #wiso #management
 ***
@@ -6,14 +6,13 @@
 1. Geschäftsidee entwickeln
 2. Marktanalyse durchführen
 3. [[Businessplan]] erstellen
-4. Finanzierung klären
-5. Rechtsform wählen -> [[Rechtsformen - Überblick]]
-6. Genehmigungen prüfen -> [[Anmelde- und Genehmigungsverfahren]]
-7. Unternehmen anmelden
+4. [[Finanzierung]] klären
+5. [[Rechtsformen - Überblick|Rechtsform]] wählen
+6. [[Standortwahl - Überblick|Standortwahl]] durchführen
+7. [[Anmelde- und Genehmigungsverfahren]] erledigen
 8. Geschäftskonto eröffnen
 9. Versicherungen abschließen
-10. Arbeitsort und Systeme einrichten
-11. Marketingstrategie festlegen
-12. Markteintritt
+10. Marketingstrategie entwerfen
+11. Startphase und Markteintritt
 ### Warum sind diese Schritte wichtig?
-Sie sorgen für Struktur, Planbarkeit und ein minimiertes Risiko.
+Sie minimieren Risiken, schaffen klare Strukturen und erhöhen die Erfolgschancen einer Gründung.
