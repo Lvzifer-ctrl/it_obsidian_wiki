@@ -23,5 +23,5 @@ Die Einhaltung wird von Aufsichtsbehörden (z. B. Gewerbeaufsichtsamt) kontrolli
 ### Wichtige Bereiche
 - [[Arbeitszeit (Jugendliche)]]
 - [[Urlaub (Jugendliche)]]
-- [[Gesundheitsuntersuchungen (Ausbildung]]
+- [[Gesundheitsuntersuchungen (Ausbildung)]] (Nicht zu verwechseln mit den Vorsorgeuntersuchungen der [[Gesetzliche Krankenversicherung (GKV)|GKV]]).
 - [[Berufsschulzeiten Anrechnung]]

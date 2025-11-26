@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "df21691cd443fccc",
+        "id": "c9289d48f13ef197",
         "type": "tabs",
         "children": [
           {
-            "id": "c788a156ca28a2fc",
+            "id": "d78db395b39b3d4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX - UI/Anforderungen.md",
+                "file": "Wiso/Jugendarbeitsschutzgesetz (JArbSchG).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anforderungen"
+              "title": "Jugendarbeitsschutzgesetz (JArbSchG)"
             }
           }
         ]
@@ -80,7 +80,7 @@
       {
         "id": "621418d28a6067fb",
         "type": "tabs",
-        "dimension": 26.204238921001927,
+        "dimension": 26.20423892100193,
         "children": [
           {
             "id": "cadb042615c33f33",
@@ -88,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX - UI/Anforderungen.md",
+                "file": "Wiso/Jugendarbeitsschutzgesetz (JArbSchG).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Anforderungen"
+              "title": "Outline of Jugendarbeitsschutzgesetz (JArbSchG)"
             }
           }
         ]
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "UX - UI/Anforderungen.md",
+                "file": "Wiso/Jugendarbeitsschutzgesetz (JArbSchG).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,69 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Anforderungen"
+              "title": "Graph of Jugendarbeitsschutzgesetz (JArbSchG)"
+            }
+          },
+          {
+            "id": "a55f9d1e4277416b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wiso/Gesetzliche Rentenversicherung (GRV).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Gesetzliche Rentenversicherung (GRV)"
+            }
+          },
+          {
+            "id": "cf11e3ecd0e844da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wiso/Gesetzliche Rentenversicherung (GRV).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Gesetzliche Rentenversicherung (GRV)"
+            }
+          },
+          {
+            "id": "aa1c8837054acb30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "760eda6a7a510643",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -167,34 +229,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c788a156ca28a2fc",
+  "active": "d78db395b39b3d4f",
   "lastOpenFiles": [
+    "Wiso/Gesundheitsuntersuchungen (Ausbildung).md",
+    "Wiso/Jugendarbeitsschutzgesetz (JArbSchG).md",
+    "Wiso/IHK - Aufgaben.md",
+    "Wiso/Ausbildungsvergütung.md",
+    "Wiso/Generationenvertrag.md",
+    "Wiso/Beitragsbemessungsgrenze.md",
+    "Wiso/Gesetzliche Unfallversicherung (GUV).md",
+    "Wiso/Soziale Pflegeversicherung (SPV).md",
+    "Wiso/Gesetzliche Arbeitslosenversicherung (ALV).md",
+    "Wiso/Gesetzliche Rentenversicherung (GRV).md",
+    "Wiso/Gesetzliche Krankenversicherung (GKV).md",
+    "Wiso/Sozialversicherung (Überblick).md",
+    "Wiso/Rechtsformen - Überblick.md",
+    "Wiso/Berufsausbildungsvertrag.md",
+    "Wiso/Rechtsquellen der Ausbildung.md",
+    "Wiso/Probezeit (Ausbildung).md",
+    "Wiso/Arbeitskampf.md",
+    "Wiso/Ablauf von Tarifverhandlungen.md",
+    "Wiso/Arten von Tarifverträgen.md",
+    "Wiso/Tarifvertrag (Grundlagen).md",
+    "UX - UI/Anforderungen.md",
     "Wiso/Pitch - Unternehmensvorstellung.md",
     "UX - UI/Benutzerhandbuch.md",
-    "Wiso/IHK - Aufgaben.md",
-    "Wiso/Berufsausbildungsvertrag.md",
     "Wiso/Lernorte der Berufsausbildung.md",
-    "Wiso/Rechtsquellen der Ausbildung.md",
-    "Wiso/Gesundheitsuntersuchungen (Ausbildung.md",
-    "UX - UI/Anforderungen.md",
     "Wiso/Berufsschulzeiten Anrechnung.md",
     "Wiso/Urlaub (Jugendliche).md",
-    "Wiso/Arbeitszeit (Jugendliche).md",
-    "Wiso/Jugendarbeitsschutzgesetz (JArbSchG).md",
-    "Wiso/Handlungskompetenz.md",
-    "Wiso/Probezeit (Ausbildung).md",
-    "Wiso/Ausbildungsvergütung.md",
-    "Wiso/AG.md",
-    "Wiso/Standortfaktoren.md",
-    "Wiso/Businessplan.md",
-    "Wiso/Preisvergleich von Standorten.md",
-    "Wiso/Duales Ausbildungssystem.md",
-    "Wiso/Einzelunternehmen.md",
-    "Wiso/Rechtsformen - Überblick.md",
-    "Wiso/UG (haftungsbeschränkt).md",
-    "Wiso/Kaufmannsarten.md",
-    "Wiso/Gründungsschritte.md",
-    "Wiso/Finanzierung.md",
     "Wiso",
     "UX - UI"
   ]

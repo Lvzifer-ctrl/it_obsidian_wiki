@@ -10,6 +10,10 @@ tags:
 - Sie muss mit fortschreitender Ausbildung, mindestens jedoch jährlich ansteigen.
 
 ***
+### Netto-Vergütung
+Vom Brutto werden die Arbeitnehmeranteile zur [[Sozialversicherung (Überblick)|Sozialversicherung]] abgezogen. Erst dann ergibt sich der Auszahlungsbetrag (Netto).
+
+***
 ### Mindestvergütung (Beispiel 2023)
 Wer 2023 eine Ausbildung begann, erhielt gesetzlich mindestens:
 - 1. Jahr: 620 €
@@ -20,4 +24,4 @@ Wer 2023 eine Ausbildung begann, erhielt gesetzlich mindestens:
 
 ***
 ## Vorrang von Tarifverträgen
-Wenn ein Tarifvertrag gilt (z. B. Holz- und Kunststoffindustrie), gelten die dort vereinbarten Sätze, auch wenn sie von der gesetzlichen Mindestvergütung abweichen. Tarifliche Sätze sind oft höher.
+Wenn ein [[Tarifvertrag (Grundlagen)|Tarifvertrag]] gilt (z. B. Holz- und Kunststoffindustrie), gelten die dort vereinbarten Sätze, auch wenn sie von der gesetzlichen Mindestvergütung abweichen. Tarifliche Sätze sind oft höher, diese sind im [[Arten von Tarifverträgen|Entgelttarifvertrag]] geregelt.

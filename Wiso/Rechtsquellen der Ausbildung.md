@@ -17,7 +17,7 @@ Die rangniedrigere Regelung darf nicht gegen die ranghöhere verstoßen.
 	- [[ArbZG]] (Arbeitszeitgesetz)
 2. **Verordnungen**
 	- [[Ausbildungsordnung]]
-3. Tarifverträge
+3. [[Tarifvertrag (Grundlagen)|Tarifvertrag]] (Unterscheidung in [[Arten von Tarifverträgen|Mantel- und Entgelttarifverträge]])
 	- Geschlossen zwischen Arbeitgeber und Betriebsrat.
 4. **Betriebsvereinbarungen**
 	- Geschlossen zwischen Arbeitgeber und Betriebsrat.

@@ -24,7 +24,7 @@ In den Vertrag müssen mindestens folgende Punkte aufgenommen werden:
 6. Höhe und Zusammensetzung der [[Ausbildungsvergütung]]
 7. Dauer des Urlaubs (bei Jugentlichen gestaffelt, siehe [[Urlaub (Jugendliche)]])
 8. Kündigungsvoraussetzungen
-9. Hinweis auf Tarifverträge/Betriebsvereinbarungen
+9. Hinweis auf [[Tarifvertrag (Grundlagen)|Tarifverträge]]/Betriebsvereinbarungen
 10. Form des Ausbildungsnachweises (Berichtsheft)
 ***
 ### Nichtige Vereinbarungen
