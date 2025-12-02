@@ -5,8 +5,23 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "wiso",
+      "color": {
+        "a": 1,
+        "rgb": 3779682
+      }
+    },
+    {
+      "query": "sql",
+      "color": {
+        "a": 1,
+        "rgb": 15764525
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.46339420556618277,
+  "scale": 0.3366209684597537,
   "close": true
 }

@@ -15,6 +15,7 @@ tags:
 	- Krankenhausaufenthalte.
 	- Krankengeld (Lohnersatz bei längerer Krankheit).
 	- Vorsorgeuntersuchungen.
+	- [[Mutterschaftsgeld]] (bei Schwangerschaft)
 ### Finanzierung
 - **Beitragssatz:** Allgemein 14,6 % + individueller Zusatzbeitrag der Kasse (z. B. 1,6 %).
 - **Aufteilung:** Arbeitgeber und Arbeitnehmer tragen den Beitrag je zur Hälfte.

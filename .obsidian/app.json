@@ -4,5 +4,6 @@
   "newFileLocation": "current",
   "vimMode": true,
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
 }

@@ -23,7 +23,7 @@ In den Vertrag müssen mindestens folgende Punkte aufgenommen werden:
 5. Dauer der [[Probezeit (Ausbildung)|Probezeit]]
 6. Höhe und Zusammensetzung der [[Ausbildungsvergütung]]
 7. Dauer des Urlaubs (bei Jugentlichen gestaffelt, siehe [[Urlaub (Jugendliche)]])
-8. Kündigungsvoraussetzungen
+8. Kündigungsvoraussetzungen (Sonderfall: Absoluter Kündigungsschutz bei [[Kündigungsschutz (Schwangerschaft)|Schwangerschaft]])
 9. Hinweis auf [[Tarifvertrag (Grundlagen)|Tarifverträge]]/Betriebsvereinbarungen
 10. Form des Ausbildungsnachweises (Berichtsheft)
 ***

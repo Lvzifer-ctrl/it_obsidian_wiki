@@ -24,3 +24,4 @@ Pausen müssen im Voraus feststehen und mind. 15 Min. lang sein.
 ### Verbotene Arbeiten
 - Akkordarbeit (Temparbeit)
 - Gefährliche Arbeiten (Unfallgefahr, sittliche Gefahren, physische Überforderung).
+- Für schwangere Azubis gelten zusätzlich die Regeln zur [[Arbeitsplatzgestaltung (Schwangerschaft)]] (z. B. keine Lasten > 5 kg).
